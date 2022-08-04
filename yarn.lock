@@ -4496,7 +4496,7 @@ eslint-plugin-testing-library@5.2.1:
   dependencies:
     "@typescript-eslint/utils" "^5.13.0"
 
-"eslint-plugin-voila-reseller-web@file:./lint_rules":
+"eslint-plugin-voila-pos-web@file:./lint_rules":
   version "0.0.0"
 
 eslint-scope@^5.1.1:

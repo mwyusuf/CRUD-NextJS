@@ -99,7 +99,7 @@
     "eslint-plugin-test-id": "2.1.0",
     "eslint-plugin-test-selectors": "2.0.3",
     "eslint-plugin-testing-library": "5.2.1",
-    "eslint-plugin-voila-reseller-web": "file:./lint_rules",
+    "eslint-plugin-voila-pos-web": "file:./lint_rules",
     "husky": "^7.0.0",
     "jest": "27.5.1",
     "less": "4.1.2",
