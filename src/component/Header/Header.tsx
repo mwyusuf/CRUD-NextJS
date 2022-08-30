@@ -1,6 +1,5 @@
-import React from 'react';
-import { PageHeader } from 'antd';
-import './header.module.css';
+import React from "react";
+import { PageHeader } from "antd";
 
 const Header = () => (
   <PageHeader

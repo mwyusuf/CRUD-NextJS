@@ -1770,6 +1770,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@react-oauth/google@0.2.6":
+  version "0.2.6"
+  resolved "https://registry.yarnpkg.com/@react-oauth/google/-/google-0.2.6.tgz#42f7a18c62d677c77ee8e1fc2eec2ccbe50be997"
+  integrity sha512-Az6w/EL3QHSvWVbfX2WbUB15PGqM0hm86bpAoyvjw2nhDdPp9IOjpFg5HfSGJQJBydjbCFnZjI8PJskTzLOhew==
+
 "@rollup/plugin-babel@^5.2.0":
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-babel/-/plugin-babel-5.3.1.tgz#04bc0608f4aa4b2e4b1aebf284344d0f68fda283"
@@ -5290,6 +5295,11 @@ html-parse-stringify@^3.0.1:
   integrity sha512-KknJ50kTInJ7qIScF3jeaFRpMpE8/lfiTdzf/twXyPBLAGrLRTmkz3AdTnKeh40X8k9L2fdYwEp/42WGXIRGcg==
   dependencies:
     void-elements "3.1.0"
+
+html5-qrcode@2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/html5-qrcode/-/html5-qrcode-2.2.1.tgz#7492359f872abf4ae72ab43824c572ee53607999"
+  integrity sha512-itYnSlSxC3gNRe825mUkKaMzlmevLc4hpH2XLlhCdiEYIE3aMdQUr1XjQ9/zk7NuRMcYRerlbCaMKM+Z66KpSg==
 
 http-proxy-agent@^4.0.1:
   version "4.0.1"
